@@ -20,5 +20,5 @@
 ## Final check for earlier readings before publication (2026-10-20 02:33 UTC)
 - Cyphersolver: origin/main 0258b8ab (2026-10-18, unchanged); 52 issues and PRs (latest update 2026-10-20T01:51Z). No reading of fr. 3013 no. 43 (only the catalogue 291 entry in CATALOGUE.md).
 - Cryptiana: unsolved.htm (Last-Modified 2026-10-19 23:08 GMT), GL.htm (2026-10-15 13:01 GMT). No mention of Bilia, Zaberna or 3013.
-- NoAutopilot/cipher-lab: latest commit 08f006b3 (2026-10-20T02:24Z). Among the 192 files changed in the commits since 2026-10-19 (the 100 returned, the API limit), none has Bilia, 3013, Zaberna, Sforza, Milan or Gilino in its name.
+- NoAutopilot/cipher-lab: latest commit 08f006b3 (2026-10-20T02:24Z). Among the 219 files changed in all 188 commits since 2026-10-19 (re-checked in full shortly after publication), none has Bilia, 3013, Zaberna, Sforza, Milan or Gilino in its name.
 - GitHub code search (btv1b9060138r, Bilia Sforza cipher, Zaberna, R5258 Bilia) and repository search (bilia 1527): no reading other than this repository.

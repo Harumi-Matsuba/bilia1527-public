@@ -20,5 +20,5 @@
 ## 公表直前の先行の見直し（2026-10-20 02:33 UTC）
 - Cyphersolver：origin/main 0258b8ab（2026-10-18、変わらず）、issue・PR 52件（最新の更新 2026-10-20T01:51Z）。fr. 3013 no. 43 の読みはない（CATALOGUE.md の catalogue 291 の項だけ）。
 - Cryptiana：unsolved.htm（Last-Modified 2026-10-19 23:08 GMT）、GL.htm（2026-10-15 13:01 GMT）。Bilia・Zaberna・3013 の語はない。
-- NoAutopilot/cipher-lab：最新のコミット 08f006b3（2026-10-20T02:24Z）。2026-10-19 以降のコミット（取得の上限の100件）で変わったファイル192件に、Bilia・3013・Zaberna・Sforza・Milan・Gilino を含む名前はない。
+- NoAutopilot/cipher-lab：最新のコミット 08f006b3（2026-10-20T02:24Z）。2026-10-19 以降のコミット全188件で変わったファイル219件に（公開の後、02:4x UTC に全件で見直した）、Bilia・3013・Zaberna・Sforza・Milan・Gilino を含む名前はない。
 - GitHub のコード検索4語（btv1b9060138r、Bilia Sforza cipher、Zaberna、R5258 Bilia）と、リポジトリ検索（bilia 1527）：このリポジトリのほかに、読みはない。
