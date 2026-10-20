@@ -1,0 +1,51 @@
+Q01. image r_L01: symbol number 1 counting from the left (preceded by: (line start); followed by: 6 47 a++). Is it (A) R~ or (B) R?
+Q02. image r_L01: symbol number 8 counting from the left (preceded by: ÷ 39 o.45; followed by: G.74 o.64 G.68). Is it (A) o.57 or (B) B.37?
+Q03. image r_L01: symbol number 10 counting from the left (preceded by: o.45 B.37 G.74; followed by: G.68 46 G.69). Is it (A) o.64 or (B) o.54?
+Q04. image r_L02: symbol number 4 counting from the left (preceded by: x o.61 G.67; followed by: φ G.73 mp). Is it (A) B.33 or (B) B.39?
+Q05. image r_L02: symbol number 14 counting from the left (preceded by: G.60 o.52 o.59; followed by: G.79). Is it (A) ß or (B) φ?
+Q06. image r_L03: symbol number 14 counting from the left (preceded by: 19 o.34 6; followed by: ÷ 19 3p). Is it (A) B.41 or (B) B.44?
+Q07. image r_L03: symbol number 17 counting from the left (preceded by: B.44 ÷ 19; followed by: G.79). Is it (A) 3p or (B) np?
+Q08. image r_L05: symbol number 6 counting from the left (preceded by: 25 o.52 6; followed by: 19 B.51 o.33). Is it (A) G.28 or (B) G.78?
+Q09. image r_L06: symbol number 8 counting from the left (preceded by: ÷ 25 o; followed by: ÷ 31 o.59). Is it (A) R or (B) ß?
+Q10. image r_L06: symbol number 11 counting from the left (preceded by: ß ÷ 31; followed by: G.75 39 B.53). Is it (A) o.54 or (B) o.59?
+Q11. image r_L07: symbol number 6 counting from the left (preceded by: G.68 xo G.57; followed by: 39 B.42 £). Is it (A) a++ or (B) tt?
+Q12. image r_L07: symbol number 11 counting from the left (preceded by: B.42 £ 25; followed by: 6 ÷ 31). Is it (A) np or (B) mp?
+Q13. image r_L08: symbol number 13 counting from the left (preceded by: 39 o.53 mp; followed by: o.57 G.74 o.64). Is it (A) 31 or (B) 39?
+Q14. image r_L14: symbol number 13 counting from the left (preceded by: G.79 H.28 G.56; followed by: G.67 B.39 G.73). Is it (A) R or (B) zd?
+Q15. image r_L14: symbol number 18 counting from the left (preceded by: B.39 G.73 G.73; followed by: (line end)). Is it (A) no symbol here (the place is empty or the mark is not a cipher symbol) or (B) ÷?
+Q16. image r_L15: symbol number 11 counting from the left (preceded by: G.67 G.68 19; followed by: qx 25 G.67). Is it (A) np or (B) r7?
+Q17. image r_L17: symbol number 7 counting from the left (preceded by: B.36 ß G.76; followed by: ß o.51 G.61). Is it (A) G.57 or (B) G.59?
+Q18. image r_L17: symbol number 15 counting from the left (preceded by: G.72 o.53 G.59; followed by: (line end)). Is it (A) G.27 or (B) G.77?
+Q19. image r_L18: symbol number 1 counting from the left (preceded by: (line start); followed by: 25 B.51 G.67). Is it (A) F or (B) qx?
+Q20. image r_L18: symbol number 16 counting from the left (preceded by: tt 39 o.51; followed by: o.61 o.36). Is it (A) B.39 or (B) B.34?
+Q21. image r_L20: symbol number 15 counting from the left (preceded by: B.37 ß G.78; followed by: B.3). Is it (A) B.53 or (B) B.33?
+Q22. image r_L20: symbol number 16 counting from the left (preceded by: ß G.78 B.33; followed by: (line end)). Is it (A) B.3 or (B) B.36?
+Q23. image r_L21: symbol number 4 counting from the left (preceded by: G.79 H.27 25; followed by: 25 6 B.44). Is it (A) F or (B) qx?
+Q24. image r_L24: symbol number 6 counting from the left (preceded by: B.44 o.61 G.79; followed by: H.27 o.54 B.51). Is it (A) o.36 or (B) o.26?
+Q25. image r_L25: symbol number 6 counting from the left (preceded by: φ 46 G.66; followed by: B.48 39 G.67). Is it (A) o.56 or (B) o.?6?
+Q26. image r_L27: symbol number 6 counting from the left (preceded by: 21 ÷ 31; followed by: o.43 £ 19). Is it (A) φ or (B) lp?
+Q27. image r_L27: symbol number 14 counting from the left (preceded by: H.27 H.27 o.53; followed by: 35 G.58 o.64). Is it (A) G.77 or (B) G.79?
+Q28. image r_L29: symbol number 4 counting from the left (preceded by: G.76 G.62 £; followed by: o.51 F 31). Is it (A) 21 or (B) 29?
+Q29. image r_L29: symbol number 5 counting from the left (preceded by: G.62 £ 21; followed by: F 31 θ). Is it (A) B.51 or (B) o.51?
+Q30. image r_L30: symbol number 1 counting from the left (preceded by: (line start); followed by: 6 G.78 19). Is it (A) o.42 or (B) B.42?
+Q31. image r_L30: symbol number 16 counting from the left (preceded by: 19 o.56 o.52; followed by: G.67). Is it (A) B.51 or (B) B.53?
+Q32. image v_L01: symbol number 1 counting from the left (preceded by: (line start); followed by: G.77 o.43 G.67). Is it (A) o.59 or (B) o.19?
+Q33. image v_L01: symbol number 13 counting from the left (preceded by: G.69 39 19; followed by: G.61 φ H.2). Is it (A) ?{open rectangular sign} or (B) bar?
+Q34. image v_L01: symbol number 16 counting from the left (preceded by: bar G.61 φ; followed by: (line end)). Is it (A) H.27 or (B) H.2?
+Q35. image v_L02: symbol number 7 counting from the left (preceded by: £ 31 G.74; followed by: o B.42 £). Is it (A) np or (B) no symbol here (the place is empty or the mark is not a cipher symbol)?
+Q36. image v_L02: symbol number 8 counting from the left (preceded by: 31 G.74 np; followed by: B.42 £ 19). Is it (A) mp or (B) o?
+Q37. image v_L02: symbol number 17 counting from the left (preceded by: o.57 6 G.77; followed by: (line end)). Is it (A) B.42 or (B) B.4?
+Q38. image v_L03: symbol number 12 counting from the left (preceded by: 6 G.78 19; followed by: 39 G.59 G.77). Is it (A) no symbol here (the place is empty or the mark is not a cipher symbol) or (B) R?
+Q39. image v_L03: symbol number 13 counting from the left (preceded by: G.78 19 R; followed by: G.59 G.77 qx). Is it (A) R.29 or (B) 39?
+Q40. image v_L04: symbol number 4 counting from the left (preceded by: G.68 o.34 G.67; followed by: 6 q B.54). Is it (A) np or (B) mp?
+Q41. image v_L04: symbol number 11 counting from the left (preceded by: ß o.58 G.76; followed by: o.64 6 19). Is it (A) B.42 or (B) B.43?
+Q42. image v_L04: symbol number 14 counting from the left (preceded by: B.42 o.64 6; followed by: φ G.60). Is it (A) 19 or (B) no symbol here (the place is empty or the mark is not a cipher symbol)?
+Q43. image v_L04: symbol number 15 counting from the left (preceded by: o.64 6 19; followed by: G.60). Is it (A) φ or (B) np?
+Q44. image v_L05: symbol number 6 counting from the left (preceded by: 39 6 G.79; followed by: o.55 B.51 np). Is it (A) o.5 or (B) o.52?
+Q45. image v_L05: symbol number 8 counting from the left (preceded by: G.79 o.5 o.55; followed by: np 19 ß). Is it (A) B.51 or (B) B.31?
+Q46. image v_L05: symbol number 13 counting from the left (preceded by: 19 ß B.44; followed by: o.52 q B.4). Is it (A) G.61 or (B) G.64?
+Q47. image v_L06: symbol number 17 counting from the left (preceded by: 19 φ 46; followed by: G.). Is it (A) no symbol here (the place is empty or the mark is not a cipher symbol) or (B) 6?
+Q48. image v_L06: symbol number 18 counting from the left (preceded by: φ 46 6; followed by: (line end)). Is it (A) G.6 or (B) G.?
+Q49. image v_L07: symbol number 1 counting from the left (preceded by: (line start); followed by: o.52 G.68 x). Is it (A) q or (B) qx?
+Q50. image v_L07: symbol number 5 counting from the left (preceded by: o.52 G.68 x; followed by: x G.77 B.43). Is it (A) G.59 or (B) G.57?
+Q51. image v_L07: symbol number 14 counting from the left (preceded by: G.66 o.43 £; followed by: 6 mp o). Is it (A) 19 or (B) 29?
